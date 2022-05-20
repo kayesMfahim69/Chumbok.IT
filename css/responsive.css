@@ -1,0 +1,132 @@
+
+@media (max-width: 575.98px) {
+
+    #nav{
+        margin-top: -60px;
+        margin-left: 35px;
+        background: #fff;
+        display:block;
+    }
+  .navbar-toggler{
+        color:#fff !important;
+         border:none !important;
+         margin: 10px auto;
+         font-size: 18px;
+         
+    }
+
+    .carousel-item{
+        position: relative;
+      
+    }
+    .carousel-content{
+        position: absolute;
+        right: 1px;
+        top: 40%;
+        z-index: 1;
+        color: red;
+    }
+    .carousel-content h3{
+        background: #77CC6D;
+        color: #fff;
+        padding: 10px 15px;
+        font-size: 17px;
+        text-align: end !important;
+        display: inline-block;
+        max-width: 400px;
+    }
+    .carousel-content p{
+    display: none;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+      display:none;
+    }
+ 
+    .img{
+        width: 100%;
+        overflow: hidden;
+    }
+    .project-content img {
+        width: 100%;
+        margin-top: 50px;
+        width: 60%;
+        margin: 30px auto;
+        align-items: center;
+        display: flex;
+    }
+    .project-content p {
+        font-size: 15px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        width: 85%;
+        margin: 0 auto;
+    }
+    #project-banner {
+        margin-top: 30px;
+    }
+    .card {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .image {
+        max-width: 260px;
+        overflow: hidden;
+    }
+    .overlay {
+        position: absolute;
+        height: 100%;
+        width: 400px;
+        max-width: 260px;
+        background: #171717;
+        opacity: .4;
+    }
+    .footer-content {
+        position: relative;
+        max-width: 260px;
+    }
+    .future-content {
+        padding: 50px 0px;
+        color: rgba(255, 255, 255, 0.878);
+        font-size: 14px;
+    }
+    .social-platform img {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        height: 40px;
+    }
+    .future-socialText h4 {
+        font-size: 15px;
+    }
+    .future-socialText {
+        left: 55px;
+    }
+    .learn-more {
+        bottom: 10px;
+        font-size: 15px;
+    }
+    .copyright-content {
+        text-align: center;
+    }
+  
+}
+
+
+
+@media (max-width: 767.98px) {
+
+}
+
+
+@media (max-width: 991.98px) {
+
+}
+
+
+@media (max-width: 1199.98px) {
+
+}
+
+@media (max-width: 1399.98px) {
+
+}
